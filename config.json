@@ -1,40 +1,40 @@
 {
-"name": "Lana Wolfyy",
-"bio": "🖤 Content Creator\n📍 Chelyabinsk",
-"avatar": "assets/avatar.png",
-"background": {
-"type": "image",
-"src": "assets/background.png",
-"overlay": 0.5
-},
-"theme": {
-"style": "glass",
-"radius": 16
-},
-"links": [
-{
-"title": "📸 Мой Instagram",
-"url": "https://www.instagram.com/lanawolfyy?xtok=MWtqcHFtZHE0Nm5tMQ==",
-"icon": "instagram"
-},
-{
-"title": "🎮 Смотреть стримы",
-"url": "https://www.twitch.tv/lanatwitchh",
-"icon": "assets/twitch.png"
-},
-{
-"title": "💬 Мой Telegram-канал",
-"url": "https://t.me/lanawolfyyy",
-"icon": "telegram"
-},
-{
-"title": "🛡️ Бот 24/7 с безопасным интернетом",
-"url": "https://t.me/LanaPayServiceBot",
-"icon": "telegram"
-}
-],
-"seo": {
-"title": "Lana Wolfyy | Links",
-"description": "All Lana Wolfyy links in one place"
-}
+  "name": "Lana Wolfyy",
+  "bio": "🖤 Content Creator\n📍 Chelyabinsk",
+  "avatar": "assets/avatar.png",
+  "background": {
+    "type": "image",
+    "src": "assets/background.png",
+    "overlay": 0.5
+  },
+  "theme": {
+    "style": "glass",
+    "radius": 16
+  },
+  "links": [
+    {
+      "title": "📸 Мой Instagram",
+      "url": "https://www.instagram.com/lanawolfyy?xtok=MWtqcHFtZHE0Nm5tMQ==",
+      "icon": "instagram"
+    },
+    {
+      "title": "🎮 Смотреть стримы",
+      "url": "https://www.twitch.tv/lanatwitchh",
+      "icon": "assets/twitch.png"
+    },
+    {
+      "title": "💬 Мой Telegram-канал",
+      "url": "https://t.me/lanawolfyyy",
+      "icon": "telegram"
+    },
+    {
+      "title": "🛡️ Бот 24/7 с безопасным интернетом",
+      "url": "https://t.me/LanaPayServiceBot",
+      "icon": "telegram"
+    }
+  ],
+  "seo": {
+    "title": "Lana Wolfyy | Links",
+    "description": "All Lana Wolfyy links in one place"
+  }
 }
