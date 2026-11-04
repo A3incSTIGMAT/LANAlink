@@ -13,14 +13,9 @@
   },
   "links": [
     {
-      "title": "🛡️ Бот 24/7 с безопасным интернетом",
-      "url": "https://t.me/LanaPayServiceBot",
-      "icon": "telegram"
-    },
-    {
-      "title": "💬 Мой Telegram-канал",
-      "url": "https://t.me/lanawolfyyy",
-      "icon": "telegram"
+      "title": "📸 Мой Instagram",
+      "url": "https://www.instagram.com/lanawolfyy?xtok=MWtqcHFtZHE0Nm5tMQ==",
+      "icon": "instagram"
     },
     {
       "title": "🎮 Смотреть стримы",
@@ -28,9 +23,14 @@
       "icon": "twitch"
     },
     {
-      "title": "📸 Мой Instagram",
-      "url": "https://www.instagram.com/lanawolfyy?xtok=MWtqcHFtZHE0Nm5tMQ==",
-      "icon": "instagram"
+      "title": "💬 Мой Telegram-канал",
+      "url": "https://t.me/lanawolfyyy",
+      "icon": "telegram"
+    },
+    {
+      "title": "🛡️ Бот 24/7 с безопасным интернетом",
+      "url": "https://t.me/LanaPayServiceBot",
+      "icon": "telegram"
     }
   ],
   "seo": {
