@@ -4,8 +4,8 @@
   "avatar": "assets/avatar.png",
   "background": {
     "type": "image",
-    "src": "assets/bg.gif",
-    "overlay": 0.55
+    "src": "assets/background.png",
+    "overlay": 0.5
   },
   "theme": {
     "style": "glass",
