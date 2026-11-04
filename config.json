@@ -18,19 +18,30 @@
       "icon": "instagram"
     },
     {
-      "title": "🎮 Смотреть стримы",
-      "url": "https://www.twitch.tv/lanatwitchh",
-      "icon": "twitch"
-    },
-    {
       "title": "💬 Мой Telegram-канал",
       "url": "https://t.me/lanawolfyyy",
       "icon": "telegram"
-    },
+    }
+  ],
+  "sections": [
     {
-      "title": "🛡️ Бот 24/7 с безопасным интернетом",
-      "url": "https://t.me/LanaPayServiceBot",
-      "icon": "telegram"
+      "title": "Мои соцсети",
+      "type": "grid",
+      "columns": 2,
+      "items": [
+        {
+          "title": "Twitch",
+          "subtitle": "Смотреть стримы",
+          "url": "https://www.twitch.tv/lanatwitchh",
+          "icon": "assets/twitch.png"
+        },
+        {
+          "title": "Бот 24/7",
+          "subtitle": "Безопасный интернет",
+          "url": "https://t.me/LanaPayServiceBot",
+          "icon": "telegram"
+        }
+      ]
     }
   ],
   "seo": {
