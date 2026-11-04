@@ -2,27 +2,39 @@
   "name": "Lana Wolfyy",
   "bio": "🖤 Content Creator\n📍 Chelyabinsk",
   "avatar": "assets/avatar.png",
-  "theme": "glass",
+  "background": {
+    "type": "image",
+    "src": "assets/bg.gif",
+    "overlay": 0.55
+  },
+  "theme": {
+    "style": "glass",
+    "radius": 16
+  },
   "links": [
     {
-      "name": "🛡️ VPN & Игровой магазин",
+      "title": "🛡️ VPN & Игровой магазин",
       "url": "https://t.me/LanaPayServiceBot",
       "icon": "telegram"
     },
     {
-      "name": "💬 Мой Telegram-канал",
+      "title": "💬 Мой Telegram-канал",
       "url": "https://t.me/lanawolfyyy",
       "icon": "telegram"
     },
     {
-      "name": "🎮 Смотреть стримы на Twitch",
+      "title": "🎮 Смотреть стримы",
       "url": "https://www.twitch.tv/lanatwitchh",
       "icon": "twitch"
     },
     {
-      "name": "📸 Мой Instagram",
+      "title": "📸 Мой Instagram",
       "url": "https://www.instagram.com/lanawolfyy?xtok=MWtqcHFtZHE0Nm5tMQ==",
       "icon": "instagram"
     }
-  ]
+  ],
+  "seo": {
+    "title": "Lana Wolfyy | Links",
+    "description": "All Lana Wolfyy links in one place"
+  }
 }
