@@ -1,40 +1,40 @@
 {
-  "name": "Lana Wolfyy",
-  "bio": "🖤 Content Creator\n📍 Chelyabinsk",
-  "avatar": "assets/avatar.png",
-  "background": {
-    "type": "image",
-    "src": "assets/background.png",
-    "overlay": 0.5
-  },
-  "theme": {
-    "style": "glass",
-    "radius": 16
-  },
-  "links": [
-    {
-      "title": "📸 Мой Instagram",
-      "url": "https://www.instagram.com/lanawolfyy?xtok=MWtqcHFtZHE0Nm5tMQ==",
-      "icon": "instagram"
-    },
-    {
-      "title": "🎮 Смотреть стримы",
-      "url": "https://www.twitch.tv/lanatwitchh",
-      "icon": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='currentColor'><path d='M11.571 4.714h1.715v5.143H11.57zm4.715 0H18v5.143h-1.714zM6 0L1.714 4.286v15.428h5.143V24l4.286-4.286h3.428L22.286 12V0zm14.571 11.143l-3.428 3.428h-3.429l-3 3v-3H6.857V1.714h13.714Z'/></svg>"
-    },
-    {
-      "title": "💬 Мой Telegram-канал",
-      "url": "https://t.me/lanawolfyyy",
-      "icon": "telegram"
-    },
-    {
-      "title": "🛡️ Бот 24/7 с безопасным интернетом",
-      "url": "https://t.me/LanaPayServiceBot",
-      "icon": "telegram"
-    }
-  ],
-  "seo": {
-    "title": "Lana Wolfyy | Links",
-    "description": "All Lana Wolfyy links in one place"
-  }
+"name": "Lana Wolfyy",
+"bio": "🖤 Content Creator\n📍 Chelyabinsk",
+"avatar": "assets/avatar.png",
+"background": {
+"type": "image",
+"src": "assets/background.png",
+"overlay": 0.5
+},
+"theme": {
+"style": "glass",
+"radius": 16
+},
+"links": [
+{
+"title": "📸 Мой Instagram",
+"url": "https://www.instagram.com/lanawolfyy?xtok=MWtqcHFtZHE0Nm5tMQ==",
+"icon": "instagram"
+},
+{
+"title": "🎮 Смотреть стримы",
+"url": "https://www.twitch.tv/lanatwitchh",
+"icon": "twitch"
+},
+{
+"title": "💬 Мой Telegram-канал",
+"url": "https://t.me/lanawolfyyy",
+"icon": "telegram"
+},
+{
+"title": "🛡️ Бот 24/7 с безопасным интернетом",
+"url": "https://t.me/LanaPayServiceBot",
+"icon": "telegram"
+}
+],
+"seo": {
+"title": "Lana Wolfyy | Links",
+"description": "All Lana Wolfyy links in one place"
+}
 }
